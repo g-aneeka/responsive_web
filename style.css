@@ -1,0 +1,29 @@
+body::before {
+    display: block;
+    content: '';
+    height: 60px;
+}
+
+.basic_color_txt {
+    color: #66fcf1;
+}
+
+.startbtn_bg {
+    background-color: #66fcf1;
+}
+
+.basic_color_bg {
+    background-color: #45a29e;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+@media (min-width: 768px) {
+    .news-input {
+        width: 50%;
+    }
+}
