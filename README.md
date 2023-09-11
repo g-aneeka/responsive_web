@@ -1,4 +1,4 @@
-# Responsive web
+# Responsive_web
 A responsive demo application developed using Bootstrap.
 
 ## Web Application Url
